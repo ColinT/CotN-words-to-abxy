@@ -1,0 +1,9 @@
+<strings>
+	<string id="5099" xOff="0" yOff="-2" scale="0.5" fontPixelHeight="6" english="LEFT +" image="localization/wordstoarrows/left.png" selectedImage="localization/wordstoarrows/left.png"/>
+	<string id="5100" xOff="0" yOff="-8" scale="0.5" fontPixelHeight="6" english="RIGHT" image="localization/wordstoarrows/right.png" selectedImage="localization/wordstoarrows/right.png"/>
+	<string id="5101" xOff="0" yOff="-2" scale="0.5" fontPixelHeight="6" english="UP +" image="localization/wordstoarrows/up.png" selectedImage="localization/wordstoarrows/up.png"/>
+	<string id="5102" xOff="0" yOff="-8" scale="0.5" fontPixelHeight="6" english="DOWN" image="localization/wordstoarrows/down.png" selectedImage="localization/wordstoarrows/down.png"/>
+	<string id="5103" xOff="0" yOff="-8" scale="0.5" fontPixelHeight="6" english="LEFT" image="localization/wordstoarrows/left.png" selectedImage="localization/wordstoarrows/left.png"/>
+	<string id="5104" xOff="0" yOff="-2" scale="0.5" fontPixelHeight="6" english="DOWN +" image="localization/wordstoarrows/down.png" selectedImage="localization/wordstoarrows/down.png"/>
+	<string id="5298" xOff="0" yOff="0" fontPixelHeight="14" english="UP + DOWN" image="localization/wordstoarrows/deadarrows.png"/>
+</strings>
